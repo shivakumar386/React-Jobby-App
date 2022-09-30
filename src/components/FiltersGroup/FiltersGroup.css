@@ -1,0 +1,16 @@
+.jobs-left-heading {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+
+.employ-list-elements {
+  color: #fff;
+  list-style: none;
+}
+
+.employ-check-box {
+  margin-right: 16px;
+  margin-bottom: 16px;
+}

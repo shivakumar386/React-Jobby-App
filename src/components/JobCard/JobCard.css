@@ -1,0 +1,89 @@
+.company-logo {
+  width: 70px;
+  margin-right: 16px;
+}
+
+.location {
+  color: #fff;
+  height: 30px;
+  margin-right: 10px;
+}
+
+.job-list-elements {
+  margin-top: 20px;
+  list-style: none;
+  color: #fff;
+  padding: 40px;
+  background-color: #272727;
+  width: 100%;
+  border-radius: 20px;
+}
+
+.company-details {
+  display: flex;
+  margin-bottom: 34px;
+}
+
+.type-emp {
+  width: 43px;
+  margin-right: 6px;
+  margin-left: 20px;
+}
+
+.job-heading {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.job-div-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.star {
+  color: gold;
+  font-size: 22px;
+}
+
+.ratings {
+  display: flex;
+  align-items: center;
+}
+
+.rating-para {
+  margin-left: 8px;
+  font-size: 22px;
+}
+
+.location-details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 14px;
+}
+
+.location-div {
+  display: flex;
+}
+
+.location-icons {
+  display: flex;
+  align-items: center;
+}
+
+.job-side-heading {
+  font-size: 20px;
+  font-weight: 500;
+  margin-top: 16px;
+}
+
+.job-para {
+  margin-top: 16px;
+  line-height: 26px;
+}
+
+.whole-job {
+  text-decoration: none;
+  color: #fff;
+}

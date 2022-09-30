@@ -1,0 +1,12 @@
+.similar-bg-container {
+  background-color: #272727;
+  padding: 20px;
+  width: 300px;
+  margin-right: 16px;
+  border-radius: 20px;
+  list-style-type: none;
+}
+
+.job-desc {
+  margin-bottom: 10px;
+}
